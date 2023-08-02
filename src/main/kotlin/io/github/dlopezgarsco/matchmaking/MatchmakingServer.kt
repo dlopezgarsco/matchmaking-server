@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class MatchmakingServer
 
 fun main(args: Array<String>) {
-    runApplication<MatchmakingServer>(*args)
+  runApplication<MatchmakingServer>(*args)
 }
